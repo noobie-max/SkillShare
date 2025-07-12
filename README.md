@@ -15,4 +15,3 @@ Skill Swap Platform Overview: Develop a Skill Swap Platform — a mini applicati
 -  Monitor pending, accepted, or cancelled swaps.
 -  Send platform-wide messages (e.g., feature updates, downtime alerts).
 -   Download reports of user activity, feedback logs, and swap stats.
--   Mockup - https://link.excalidraw.com/l/65VNwvy7c4X/8bM86GXnnUN
